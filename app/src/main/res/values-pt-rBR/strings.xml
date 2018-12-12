@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SuperShop</string>
+    <string name="item1">Produtos</string>
+    <string name="item3"> Entre em contato</string>
+    <string name="item4"> Sobre</string>
+    <string name="item5"> Iniciar sessão</string>
+
+    <string name="item7"> Adicionar produto</string>
+    <string name="item6"> Fechar Sessão</string>
+
+    <string name="Productos_recientes"> Produtos recentes</string>
+    <string name="Producto1"> Capitão América - figura da guerra civil</string>
+    <string name="Producto2"> Máquina de Guerra - Iron Man 3 Figure</string>
+    <string name="Descripcion1"> Figura do Capitão América Correspondente ao filme Guerra Civil \nAltura: 30 cm \nPeso: 250 gr \nPreço: S/. 200</string>
+
+    <string name="Descripcion2"> Figura da Máquina de Guerra do filme Iron Main 3 \nAltura: 35 cm \nPeso: 230 gr \nPreço: S/. 220 Material: Plástico, Metal</string>
+
+    <string name="Boton1"> Comprar</string>
+    <string name="Boton2"> Ver</string>
+
+    <string name="contacto"> Entre em contato</string>
+    <string name="contacto_email"> Email</string>
+    <string name="contacto_mensaje"> Mensagem</string>
+    <string name="contacto_enviar"> Enviar</string>
+
+    <string name="acercaDe"> Sobre o aplicativo</string>
+    <string name="acercaDe_Descripcion"> Aplicativo Desenvolvido por Alunos da Escola Profissional de Engenharia de Sistemas, UNSA.</string>
+
+    <string name="acercaDe_Integrantes"> Membros</string>
+    <string name="acercaDe_Integrante1"> Medina Ayaque, Juan Carlos</string>
+    <string name="acercaDe_Integrante2"> Pari Charrez, Dean Diego</string>
+    <string name="acercaDe_Integrante3"> Galindo Zuñiga, Luis Alonso</string>
+
+
+    <string name="inicio_sesion"> Conecte-Se</string>
+    <string name="inicio_sesion_Usuario"> Usuário</string>
+    <string name="inicio_sesion_Contraseña"> Senha</string>
+    <string name="inicio_sesion_registrarse"> Cadastre-se</string>
+    <string name="inicio_sesion_olvido"> Esqueceu sua senha ?</string>
+
+    <string name="sesion"> Informação do usuário</string>
+
+    <string name="sesion_informacion">
+        Apelido             : User23
+        \nNome              : Pablo Perez
+        \nIdade             : 25 anos
+        \nTipo              : Administrador
+        \nCompanhia         : Matel
+        \nCompras realizadas: 7
+        \nProdutos Registrados: 4
+    </string>
+
+    <string name="sesion_editar"> Editar informações do usuário</string>
+
+
+    <string name="comprar">  Informação sobre o produto</string>
+
+    <string name="comprar_descripcion"> Tipo: figura de ação
+\nPersonagem: Capitão América
+\nDisponível: sim
+\nAltura: 30 cm
+\nPeso: 250 gr
+\nGarantia: sim
+\nEntrega para casa: sim </string>
+
+    <string name="comprar_item1">  S/.200  Versão Básica</string>
+    <string name="comprar_item2">  S/.275  Acessórios de versão incluídos</string>
+    <string name="comprar_item3">  S/.350  Versão da Colecção</string>
+    <string name="comprar_boton">  Comprar</string>
+
+    <string name="agregar">  Adicionar produto</string>
+    <string name="agregar_Nombre">  Nome do produto</string>
+    <string name="agregar_precio">  S /. Preço</string>
+    <string name="agregar_Tipo">  Tipo de produto</string>
+    <string name="agregar_item1">  Toy</string>
+    <string name="agregar_item2">  Figura colecionável</string>
+    <string name="agregar_item3">  Outros</string>
+    <string name="agregar_img">  Carregar imagem</string>
+    <string name="agregar_descripcio">  Descrição</string>
+    <string name="agregar_boton">  Adicionar</string>
+
+</resources>

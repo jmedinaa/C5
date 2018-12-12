@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SuperShop</string>
+    <string name="item1">Products</string>
+    <string name="item3"> Contact</string>
+    <string name="item4"> About</string>
+    <string name="item5"> Log in</string>
+
+    <string name="item7"> Add Product</string>
+    <string name="item6"> Sign off</string>
+
+    <string name="Productos_recientes"> Recent Products</string>
+    <string name="Producto1"> Captain America - Civil War Figure</string>
+    <string name="Producto2"> War Machine - Iron Man 3 Figure</string>
+    <string name="Descripcion1">Figure of Captain America Corresponding to the film Civil War \nHeight: 30 cm \nWeight: 250 gr \nPrice: S/.200</string>
+
+    <string name="Descripcion2"> Figure of War Machine of the movie Iron Main 3 \nHeight: 35 cm \nWeight: 230 gr \nPrice: S/.220 \nMaterial: Plastic, Metal</string>
+
+    <string name="Boton1">To buy</string>
+    <string name="Boton2">Watch</string>
+
+    <string name="contacto">Contact</string>
+    <string name="contacto_email">E-mail</string>
+    <string name="contacto_mensaje"> Message</string>
+    <string name="contacto_enviar"> Submit</string>
+
+    <string name="acercaDe"> About the Application</string>
+    <string name="acercaDe_Descripcion">Application Developed by Students of the Professional School of Systems Engineering, UNSA.</string>
+
+    <string name="acercaDe_Integrantes"> Members</string>
+    <string name="acercaDe_Integrante1"> Medina Ayaque, Juan Carlos</string>
+    <string name="acercaDe_Integrante2"> Pari Charrez, Dean Diego</string>
+    <string name="acercaDe_Integrante3"> Galindo Zuñiga, Luis Alonso</string>
+
+
+    <string name="inicio_sesion">Login</string>
+    <string name="inicio_sesion_Usuario"> User</string>
+    <string name="inicio_sesion_Contraseña"> Password</string>
+    <string name="inicio_sesion_registrarse"> Check in</string>
+    <string name="inicio_sesion_olvido"> Forgot your password ?</string>
+
+    <string name="sesion"> User Information</string>
+
+    <string name="sesion_informacion">Nickname       : Usuario23
+                                     \nName          : Pablo Perez
+                                     \nAge           : 25
+                                     \nType          : Administrador
+                                     \nCompany       : Matel
+                                     \nPucharses Made: 7
+                                     \nRegistred Products : 4
+
+                                     </string>
+
+    <string name="sesion_editar"> Edit User Information</string>
+
+
+    <string name="comprar">  Product Information</string>
+    <string name="comprar_descripcion"> Type: Action Figure \nPersonality: Captain America
+                                        \nAvailable: Yes \nHeight: 30 cm \nWeight: 250 gr
+                                        \nWarranty: Yes \nDelivery to home: Yes </string>
+
+    <string name="comprar_item1"> S/.200  Basic Version</string>
+    <string name="comprar_item2"> S/.275  Version Accessories Included</string>
+    <string name="comprar_item3"> S/.350  Collection Version</string>
+    <string name="comprar_boton">  To buy</string>
+
+    <string name="agregar">  Add Product</string>
+    <string name="agregar_Nombre">  Product name</string>
+    <string name="agregar_precio">  S /. Price</string>
+    <string name="agregar_Tipo">  Kind of product</string>
+    <string name="agregar_item1">  Toy</string>
+    <string name="agregar_item2">  Collectable Figure</string>
+    <string name="agregar_item3">  Others</string>
+    <string name="agregar_img">  Upload Image</string>
+    <string name="agregar_descripcio">  Description</string>
+    <string name="agregar_boton">  Add</string>
+
+</resources>

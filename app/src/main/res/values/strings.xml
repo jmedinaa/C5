@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">SuperShop</string>
+
+    <string name="item1">Productos </string>
+    <string name="item3">Contacto</string>
+    <string name="item4">Acerca de</string>
+    <string name="item5">Iniciar Sesion</string>
+
+    <string name="item7">Agregar Producto</string>
+    <string name="item6">Cerrar Sesion</string>
+
+    <string name="Productos_recientes">Productos Recientes</string>
+    <string name="Producto1">Capitan America - Civil War Figure</string>
+    <string name="Producto2">War Machine - Iron Man 3 Figure</string>
+    <string name="Descripcion1">Figura de Capitana America Correspondiente a la pelicula Civil War \nAltura : 30 cm \nPeso : 250 gr \nPrecio : S/. 200 </string>
+    <string name="Descripcion2">Figura de War Machine de la pelicula Iron Main 3 \nAltura : 35 cm \nPeso :230 gr \nPrecio : S/220 \nMaterial : Plastico ,Metal</string>
+    <string name="Boton1">Comprar</string>
+    <string name="Boton2">Ver</string>
+
+    <string name="contacto">Contacto</string>
+    <string name="contacto_email">Email</string>
+    <string name="contacto_mensaje">Mensaje</string>
+    <string name="contacto_enviar">Enviar</string>
+
+    <string name="acercaDe">Acerca de la Aplicacion</string>
+    <string name="acercaDe_Descripcion">Aplicacion Desarrollada por Estudiantes de la Escuela Profesional de
+                                        Ingenieria de Sistemas , UNSA.</string>
+    <string name="acercaDe_Integrantes">Integrantes</string>
+    <string name="acercaDe_Integrante1">Medina Ayaque , Juan Carlos</string>
+    <string name="acercaDe_Integrante2">Pari Charrez , Dean Diego</string>
+    <string name="acercaDe_Integrante3">Galindo Zuñiga , Luis Alonso</string>
+
+
+    <string name="inicio_sesion">Inicio de Sesion</string>
+    <string name="inicio_sesion_Usuario">Usuario</string>
+    <string name="inicio_sesion_Contraseña">Contraseña</string>
+    <string name="inicio_sesion_registrarse">Registrarse</string>
+    <string name="inicio_sesion_olvido">Olvido Su Contraseña ?</string>
+
+    <string name="sesion">Informacion de Usuario</string>
+    <string name="sesion_informacion">Apodo              : Usuario23
+                                     \nNombre            : Pablo Perez
+                                     \nEdad              : 25
+                                     \nTipo              : Administrador
+                                     \nEmpresa           : Matel
+                                     \nCompras Realizadas: 7
+                                     \nProductos Registrados : 4
+
+                                     </string>
+    <string name="sesion_editar">Editar Informacion de Usuario</string>
+
+
+    <string name="comprar"> Informacion del Producto  </string>
+    <string name="comprar_descripcion"> Tipo: Figura de Accion \nPersonaje : Capitan America
+                                        \nDisponible : Si \nAltura : 30 cm \nPeso : 250 gr \nGarantia : Si
+                                        \nEnvio a Domicilio : Si </string>
+    <string name="comprar_item1"> S/.200  Version Basica  </string>
+    <string name="comprar_item2"> S/.275  Version Accesorios Incluidos  </string>
+    <string name="comprar_item3"> S/.350  Version de Coleccion  </string>
+    <string name="comprar_boton"> Comprar </string>
+
+    <string name="agregar"> Agregar Producto </string>
+    <string name="agregar_Nombre"> Nombre del Producto  </string>
+    <string name="agregar_precio"> S/. Precio </string>
+    <string name="agregar_Tipo"> Tipo de Producto </string>
+    <string name="agregar_item1"> Juguete </string>
+    <string name="agregar_item2"> Figura Coleccionable </string>
+    <string name="agregar_item3"> Otros </string>
+    <string name="agregar_img"> Subir Imagen </string>
+    <string name="agregar_descripcio"> Descripcion </string>
+    <string name="agregar_boton"> Agregar </string>
+
+</resources>
+
